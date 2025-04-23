@@ -1,4 +1,4 @@
-修改 cn.list，删除 +.cn 条目
+@mengdegege 修改 cn.list，删除 +.cn 条目
 ## **下载地址**：
 
 | 文件名              | Github release                                                                                                            | JSdelivr                                                                                                                           | JSdelivr-CF                                                                                                                              |
