@@ -1,0 +1,68 @@
+payload:
+  # 📦 网盘类
+  - PROCESS-NAME,com.baidu.netdisk           # 百度网盘
+  - PROCESS-NAME,com.alicloud.databox        # 阿里云盘
+  - PROCESS-NAME,com.cn21.ecloud             # 天翼云盘
+  - PROCESS-NAME,com.xunlei.downloadprovider # 迅雷
+
+  # 🎬 视频类
+  - PROCESS-NAME,com.qiyi.video              # 爱奇艺
+  - PROCESS-NAME,com.tencent.qqlive          # 腾讯视频
+  - PROCESS-NAME,com.youku.phone             # 优酷
+  - PROCESS-NAME,tv.danmaku.bili             # 哔哩哔哩
+  - PROCESS-NAME,com.kugou.android           # 酷狗音乐
+  - PROCESS-NAME,com.mgtv.tvphone            # 芒果TV
+  - PROCESS-NAME,com.letv.androidclient      # 乐视视频
+
+  # 🛒 购物类
+  - PROCESS-NAME,com.taobao.taobao           # 淘宝
+  - PROCESS-NAME,com.jingdong.app.mall       # 京东
+  - PROCESS-NAME,com.xunmeng.pinduoduo       # 拼多多
+  - PROCESS-NAME,com.xingin.xhs              # 小红书
+  - PROCESS-NAME,com.suning.mobile.ebuy      # 苏宁易购
+  - PROCESS-NAME,com.vipshop.vsworld         # 唯品会
+  - PROCESS-NAME,com.taobao.idlefish         # 闲鱼
+
+  # 🗺️ 地图类
+  - PROCESS-NAME,com.autonavi.minimap        # 高德地图
+  - PROCESS-NAME,com.baidu.BaiduMap          # 百度地图
+  - PROCESS-NAME,com.tencent.map             # 腾讯地图
+
+  # 💬 社交类
+  - PROCESS-NAME,com.tencent.mm              # 微信
+  - PROCESS-NAME,com.tencent.mobileqq        # QQ
+  - PROCESS-NAME,com.sina.weibo              # 微博
+  - PROCESS-NAME,com.ss.android.ugc.aweme    # 抖音
+  - PROCESS-NAME,com.kuaishou.nebula         # 快手
+  - PROCESS-NAME,com.zhihu.android           # 知乎
+
+  # 💼 办公类
+  - PROCESS-NAME,com.alibaba.android.rimet   # 钉钉
+  - PROCESS-NAME,com.tencent.wework          # 企业微信
+  - PROCESS-NAME,com.bytedance.lark          # 飞书
+
+  # 📚 阅读类
+  - PROCESS-NAME,com.chaozh.iReaderFree      # 掌阅
+  - PROCESS-NAME,com.migu.reader             # 咪咕阅读
+  - PROCESS-NAME,com.tencent.weread          # 微信读书
+
+  # 📰 新闻类（广告密集）
+  - PROCESS-NAME,com.ss.android.article.news # 今日头条
+  - PROCESS-NAME,com.netease.newsreader.activity # 网易新闻
+  - PROCESS-NAME,cn.com.chinatelecom.news    # 天翼新闻
+  - PROCESS-NAME,com.sohu.newsclient         # 搜狐新闻
+  - PROCESS-NAME,com.ifeng.news2             # 凤凰新闻
+  - PROCESS-NAME,com.yidian.xiaomi           # 一点资讯
+  - PROCESS-NAME,com.myzaker.ZAKER_Phone     # ZAKER
+  - PROCESS-NAME,com.tencent.news            # 腾讯新闻
+  - PROCESS-NAME,com.baidu.news              # 百度新闻
+  - PROCESS-NAME,com.hexin.plat.android      # 和讯网
+  - PROCESS-NAME,com.cctvnews.newsreader     # 央视新闻
+
+  # 📂 其他工具类
+  - PROCESS-NAME,com.eg.android.AlipayGphone # 支付宝
+  - PROCESS-NAME,com.MobileTicket            # 12306
+  - PROCESS-NAME,ctrip.android.view          # 携程
+  - PROCESS-NAME,com.meituan.android         # 美团
+  - PROCESS-NAME,com.dianping.v1             # 大众点评
+  - PROCESS-PATH-REGEX,(?i).*(WXWork|Weixin|Tencent|todesk|Oray)
